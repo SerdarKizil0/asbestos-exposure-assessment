@@ -1,0 +1,40 @@
+﻿ilce,slug,yaka,durum,http,kanonik_url,baslik,sunucu,denemeler
+Adalar,adalar,Anadolu,erisildi,200,https://adalar.bel.tr/,Adalar Belediyesi,,https://www.adalar.bel.tr/ -> 200 ok
+Arnavutköy,arnavutkoy,Avrupa,ulasilamadi,,,,,https://www.arnavutkoy.bel.tr/ -> None hata | https://arnavutkoy.bel.tr/ -> None hata | https://www.arnavutkoy.istanbul/ -> None hata | https://arnavutkoy.istanbul/ -> None hata
+Ataşehir,atasehir,Anadolu,erisildi,200,https://www.atasehir.bel.tr/,T.C. Ataşehir Belediyesi,,https://www.atasehir.bel.tr/ -> 200 ok
+Avcılar,avcilar,Avrupa,erisildi,200,https://www.avcilar.bel.tr/,Avcılar Belediyesi,,https://www.avcilar.bel.tr/ -> 200 ok
+Bağcılar,bagcilar,Avrupa,erisildi,200,https://www.bagcilar.bel.tr/,Bağcılar Belediyesi,,https://www.bagcilar.bel.tr/ -> 200 ok
+Bahçelievler,bahcelievler,Avrupa,erisildi,200,https://www.bahcelievler.istanbul/,Bahçelievler Belediyesi,,https://www.bahcelievler.bel.tr/ -> 200 ok
+Bakırköy,bakirkoy,Avrupa,erisildi,200,https://www.bakirkoy.bel.tr/,Ana Sayfa - Bakırköy Belediyesi,,https://www.bakirkoy.bel.tr/ -> 200 ok
+Başakşehir,basaksehir,Avrupa,ulasilamadi,,,,,https://www.basaksehir.bel.tr/ -> None hata | https://basaksehir.bel.tr/ -> None hata | https://www.basaksehir.istanbul/ -> None hata | https://basaksehir.istanbul/ -> None hata
+Bayrampaşa,bayrampasa,Avrupa,bot_korumasi,403,https://www.bayrampasa.bel.tr/,,,https://www.bayrampasa.bel.tr/ -> 403 challenge | https://bayrampasa.bel.tr/ -> 403 challenge | https://www.bayrampasa.istanbul/ -> None hata | https://bayrampasa.istanbul/ -> None hata
+Beşiktaş,besiktas,Avrupa,erisildi,200,https://www.besiktas.bel.tr/,Beşiktaş Belediyesi,,https://www.besiktas.bel.tr/ -> 200 ok
+Beykoz,beykoz,Anadolu,erisildi,200,https://www.beykoz.bel.tr/,T.C. Beykoz Belediyesi,,https://www.beykoz.bel.tr/ -> 200 ok
+Beylikdüzü,beylikduzu,Avrupa,erisildi,200,https://www.beylikduzu.istanbul/,Beylikd&#xFC;z&#xFC; Belediyesi,,https://www.beylikduzu.bel.tr/ -> 200 ok
+Beyoğlu,beyoglu,Avrupa,erisildi,200,https://beyoglu.bel.tr/,Beyoğlu Belediyesi - Beyoğlu’nun hakkı #BizeEmanet,LiteSpeed,https://www.beyoglu.bel.tr/ -> 200 ok
+Büyükçekmece,buyukcekmece,Avrupa,erisildi,200,https://www.bcekmece.bel.tr/,T.C. Büyükçekmece Belediyesi,,https://www.bcekmece.bel.tr/ -> 200 ok
+Çatalca,catalca,Avrupa,erisildi,200,https://catalca.bel.tr/,T.C. Çatalca Belediyesi,,https://www.catalca.bel.tr/ -> 200 ok
+Çekmeköy,cekmekoy,Anadolu,ulasilamadi,,,,,https://www.cekmekoy.bel.tr/ -> None hata | https://cekmekoy.bel.tr/ -> None hata | https://www.cekmekoy.istanbul/ -> None hata | https://cekmekoy.istanbul/ -> None hata
+Esenler,esenler,Avrupa,bot_korumasi,403,https://www.esenler.bel.tr/,,,https://www.esenler.bel.tr/ -> 403 challenge | https://esenler.bel.tr/ -> 403 challenge | https://www.esenler.istanbul/ -> None hata | https://esenler.istanbul/ -> None hata
+Esenyurt,esenyurt,Avrupa,ulasilamadi,,,,,https://www.esenyurt.bel.tr/ -> None hata | https://esenyurt.bel.tr/ -> None hata | https://www.esenyurt.istanbul/ -> None hata | https://esenyurt.istanbul/ -> None hata
+Eyüpsultan,eyupsultan,Avrupa,erisildi,200,https://www.eyupsultan.bel.tr/,T.C. Eyüpsultan Belediyesi Resmi Web Sitesi,,https://www.eyupsultan.bel.tr/ -> 200 ok
+Fatih,fatih,Avrupa,erisildi,200,https://www.fatih.bel.tr/,T.C. Fatih Belediyesi,,https://www.fatih.bel.tr/ -> 200 ok
+Gaziosmanpaşa,gaziosmanpasa,Avrupa,ulasilamadi,,,,,https://www.gaziosmanpasa.bel.tr/ -> 403 http_403 | https://gaziosmanpasa.bel.tr/ -> 403 http_403 | https://www.gaziosmanpasa.istanbul/ -> None hata | https://gaziosmanpasa.istanbul/ -> None hata
+Güngören,gungoren,Avrupa,erisildi,200,https://www.gungoren.bel.tr/,GÃ¼ngÃ¶ren YanÄ±nda,,https://www.gungoren.bel.tr/ -> 200 ok
+Kadıköy,kadikoy,Anadolu,erisildi,200,https://www.kadikoy.bel.tr/tr,Kadıköy Belediyesi - Anasayfa,,https://www.kadikoy.bel.tr/ -> 200 ok
+Kağıthane,kagithane,Avrupa,erisildi,200,https://www.kagithane.istanbul/,Kağıthane Belediyesi,,https://www.kagithane.bel.tr/ -> None hata | https://kagithane.bel.tr/ -> None hata | https://www.kagithane.istanbul/ -> 200 ok
+Kartal,kartal,Anadolu,ulasilamadi,,,,,https://www.kartal.bel.tr/ -> None hata | https://kartal.bel.tr/ -> None hata | https://www.kartal.istanbul/ -> None hata | https://kartal.istanbul/ -> None hata
+Küçükçekmece,kucukcekmece,Avrupa,erisildi,200,https://www.kucukcekmece.bel.tr/,K&#252;&#231;&#252;k&#231;ekmece Belediyesi,,https://www.kucukcekmece.bel.tr/ -> 200 ok
+Maltepe,maltepe,Anadolu,erisildi,200,https://www.maltepe.bel.tr/,T.C. Maltepe  Belediyesi,,https://www.maltepe.bel.tr/ -> 200 ok
+Pendik,pendik,Anadolu,ulasilamadi,,,,,https://www.pendik.bel.tr/ -> None hata | https://pendik.bel.tr/ -> None hata | https://www.pendik.istanbul/ -> None hata | https://pendik.istanbul/ -> None hata
+Sancaktepe,sancaktepe,Anadolu,ulasilamadi,,,,,https://www.sancaktepe.bel.tr/ -> None hata | https://sancaktepe.bel.tr/ -> None hata | https://www.sancaktepe.istanbul/ -> None hata | https://sancaktepe.istanbul/ -> None hata
+Sarıyer,sariyer,Avrupa,erisildi,200,https://sariyer.bel.tr:443/,SARIYER BELEDÄ°YESÄ°,,https://www.sariyer.bel.tr/ -> 200 ok
+Silivri,silivri,Avrupa,erisildi,200,https://www.silivri.bel.tr/,T.C. Silivri Belediyesi,,https://www.silivri.bel.tr/ -> 200 ok
+Sultanbeyli,sultanbeyli,Anadolu,ulasilamadi,,,,,https://www.sultanbeyli.bel.tr/ -> None hata | https://sultanbeyli.bel.tr/ -> None hata | https://www.sultanbeyli.istanbul/ -> None hata | https://sultanbeyli.istanbul/ -> None hata
+Sultangazi,sultangazi,Avrupa,erisildi,200,https://www.sultangazi.bel.tr/,T.C. Sultangazi Belediyesi,,https://www.sultangazi.bel.tr/ -> 200 ok
+Şile,sile,Anadolu,erisildi,200,https://sile.bel.tr/tr/,Anasayfa &middot; Şile Belediyesi,,https://www.sile.bel.tr/ -> 200 ok
+Şişli,sisli,Avrupa,ulasilamadi,,,,,https://www.sisli.bel.tr/ -> None hata | https://sisli.bel.tr/ -> None hata | https://www.sisli.istanbul/ -> None hata | https://sisli.istanbul/ -> None hata
+Tuzla,tuzla,Anadolu,erisildi,200,https://www.tuzla.bel.tr/,Tuzla Belediyesi,,https://www.tuzla.bel.tr/ -> 200 ok
+Ümraniye,umraniye,Anadolu,erisildi,200,https://umraniye.bel.tr/,Ümraniye Belediyesi | Ümraniye Municipality,,https://www.umraniye.bel.tr/ -> 200 ok
+Üsküdar,uskudar,Anadolu,erisildi,200,https://www.uskudar.bel.tr/,T.C. Üsküdar Belediyesi,,https://www.uskudar.bel.tr/ -> 200 ok
+Zeytinburnu,zeytinburnu,Avrupa,ulasilamadi,,,,,https://www.zeytinburnu.bel.tr/ -> None hata | https://zeytinburnu.bel.tr/ -> None hata | https://www.zeytinburnu.istanbul/ -> None hata | https://zeytinburnu.istanbul/ -> None hata

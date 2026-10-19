@@ -1,0 +1,27 @@
+﻿ilce,durum,form_bulundu,sablon,son_url,yeni_link,asbest_link,denenen,ornekler
+Adalar,sonuc_var,True,https://adalar.bel.tr?s={q},https://adalar.bel.tr/?s=asbest,1,1,1,Menu <https://adalar.bel.tr/?s=asbest>
+Ataşehir,sonuc_var,False,https://www.atasehir.bel.tr/?s={q},https://www.atasehir.bel.tr/?s=asbest,1,1,12,Veteriner Hizmetleri <https://www.atasehir.bel.tr/?s=asbest>
+Avcılar,arama_bulunamadi,,,,,,14,
+Bağcılar,arama_bulunamadi,,,,,,14,
+Bahçelievler,arama_bulunamadi,,,,,,14,
+Bakırköy,sonuc_var,True,https://www.bakirkoy.bel.tr/sitede-ara?keyword={q},https://www.bakirkoy.bel.tr/sitede-ara?keyword=asbest,1,1,1, <https://www.bakirkoy.bel.tr/sitede-ara?keyword=asbest>
+Beşiktaş,arama_bulunamadi,,,,,,14,
+Beykoz,arama_bulunamadi,,,,,,15,
+Beylikdüzü,arama_bulunamadi,,,,,,14,
+Beyoğlu,sonuc_var,True,https://beyoglu.bel.tr/?s={q},https://beyoglu.bel.tr/?s=asbest,1,1,1,Bakarsan Beyoğlu <https://beyoglu.bel.tr/?s=asbest>
+Büyükçekmece,sonuc_var,False,https://www.bcekmece.bel.tr/?s={q},https://www.bcekmece.bel.tr/?s=asbest,1,1,12, <https://www.bcekmece.bel.tr/?s=asbest>
+Çatalca,arama_bulunamadi,,,,,,15,
+Eyüpsultan,sonuc_var,True,https://www.eyupsultan.bel.tr/tr/main/search?s={q},https://www.eyupsultan.bel.tr/tr/main/search?s=asbest,2,2,1,[telefon] <https://www.eyupsultan.bel.tr/tr/main/search?s=asbest> | Paylaş <https://www.eyupsultan.bel.tr/tr/main/news/eyupsultan-belediyesinden-asbest-temizligi/18187>
+Fatih,js_olabilir,True,https://www.fatih.bel.tr/tr/main/search?search={q},https://www.fatih.bel.tr/tr/main/search?search=asbest,0,0,6,
+Güngören,arama_bulunamadi,,,,,,14,
+Kadıköy,sonuc_var,False,https://www.kadikoy.bel.tr/arama?q={q},https://www.kadikoy.bel.tr/tr/arama?q=asbest,1,1,1,İLETİŞİM <https://www.kadikoy.bel.tr/tr/arama?q=asbest>
+Kağıthane,arama_bulunamadi,,,,,,14,
+Küçükçekmece,arama_bulunamadi,,,,,,14,
+Maltepe,sonuc_var,True,https://www.maltepe.bel.tr/tr/arama/sonuc?q={q},https://www.maltepe.bel.tr/tr/arama/sonuc?q=asbest,21,12,1,Sosyal Medya <https://www.maltepe.bel.tr/tr/arama/sonuc?q=asbest> | Maltepe’den asbesti ‘söküp attılar’ <https://www.maltepe.bel.tr/guncel/haberler/maltepe-den-asbesti-sokup-attilar-> | 6 yılda 2124 asbest denetimi <https://www.maltepe.bel.tr/guncel/haberler/6-yilda-2124-asbest-denetimi> | Maltepe asbest denetiminde örnek ilçe <https://www.maltepe.bel.tr/guncel/haberler/maltepe-asbest-denetiminde-ornek-ilce>
+Sarıyer,arama_bulunamadi,,,,,,14,
+Silivri,arama_bulunamadi,,,,,,14,
+Sultangazi,sonuc_var,False,https://www.sultangazi.bel.tr/?s={q},https://www.sultangazi.bel.tr/?s=asbest,2,2,12,E-Belediye <https://www.sultangazi.bel.tr/?s=asbest> | en <https://www.sultangazi.bel.tr/en/?s=asbest>
+Şile,sonuc_var,True,https://sile.bel.tr/tr/arama/?q={q},https://sile.bel.tr/tr/arama/?q=asbest,1,1,1,Rotamız Şile <https://sile.bel.tr/tr/arama/?q=asbest>
+Tuzla,arama_bulunamadi,,,,,,14,
+Ümraniye,js_olabilir,False,https://umraniye.bel.tr/tr/arama?q={q},https://umraniye.bel.tr/haber/arama-kurtarma-ekibi-baskan-yildirimin-misafiri-oldu/?q=asbest,0,0,7,
+Üsküdar,arama_bulunamadi,,,,,,15,

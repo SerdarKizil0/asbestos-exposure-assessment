@@ -1,0 +1,59 @@
+Kadıköy	https://cevre.kadikoy.bel.tr/icerik/insaat-sahalarinda-asbest-atiklarinin-kontrolu	İnşaat sahalarında asbest atıklarının kontrolü
+Kadıköy	https://www.kadikoy.bel.tr/tr/haber-detay/kadikoyde-dogaya-emek-veriliyor-5150	Kadıköy'de Doğaya Emek Veriliyor
+Kadıköy	https://www.kadikoy.bel.tr/en/news/kadikoy-belediyesinin-1-yili-5161	Kadıköy Belediyesi'nin 1 Yılı
+Kadıköy	https://www.kadikoy.bel.tr/tr/haber-detay/asbestli-binalara-yikim-izni-yok-4885	Asbestli Binalara Yıkım İzni Yok
+Kadıköy	https://cevre.kadikoy.bel.tr/Uploads/Files/Kadikoy_Belediyesi_Asbest_Ucret_Tarifesi.pdf	Asbest Ücret Tarifesi
+Kadıköy	https://kadikoyapi.kadikoy.bel.tr/3d247a659ce64e4a80bd2f5c447f9b4d.pdf	Ücret tarifesi 2025-2026
+Kartal	https://www.kartal.bel.tr/Belediyemiz/Haberler/30293	Kartal'da yıkım kararı alınan yapılarda asbest denetimi
+Kartal	https://www.kartal.bel.tr/Belediyemiz/Haberler/19267	Kartal'da Önce Asbest Sonra Yıkım
+Kartal	https://www.kartal.bel.tr/Belediyemiz/IDSAMBForm	İklim Değişikliği ve Sıfır Atık Müdürlüğü
+Kartal	https://www.kartal.bel.tr/_Dokumanlar/mudurlukler/YKM_Yonetmelik.pdf	Yapı Kontrol Müdürlüğü yönetmeliği
+Ataşehir	https://www.atasehir.bel.tr/Uploads/UploadFile/Files/48991a4b4c924ab1b060350dc50674ef.pdf	Çevre Koruma ve Kontrol Müdürlüğü
+Ataşehir	https://www.atasehir.bel.tr/upload/managers/notchange/iklim-degisikligi-ve-sifir-atik-muduru-d12f700a-d89f-4191-a313-147e1a4fa534-dosya.pdf	İklim Değişikliği ve Sıfır Atık Müdürlüğü
+Ataşehir	https://www.atasehir.bel.tr/haber/atasehir-belediyesi-hizmetle-dolu-gecen-bir-yili-daha-geride-birakti	Hizmetle dolu bir yıl
+Ataşehir	https://eski.atasehir.bel.tr/Uploads/UploadFile/Files/2afa3909102c498a9a8238abdabf39b6.pdf	Ataşehir'de Asbest Risk Yönetimi (eski site)
+Adalar	https://adalar.bel.tr/wp-content/uploads/2023/08/1502696050.pdf	2011 Faaliyet Raporu
+Ümraniye	https://umraniye.bel.tr/wp-content/uploads/2025/01/faaliyet-raporu-95_8413.pdf	Faaliyet raporu (bölüm)
+Ümraniye	https://umraniye.bel.tr/wp-content/uploads/2025/01/faaliyet-raporu-105_963.pdf	Faaliyet raporu (bölüm)
+Ümraniye	https://mobil.umraniye.bel.tr/tr/mobil/hizmetrehberi/imar-ve-sehircilik-hizmetleri/41/yikim-ruhsati-islemleri/8	Yıkım ruhsatı işlemleri
+Çekmeköy	https://cekmekoy.bel.tr/hizmetlerimiz/505/yapi-kontrol-mudurlugu-hizmetleri	Yapı Kontrol Müdürlüğü hizmetleri
+Beşiktaş	https://cevre.besiktas.bel.tr/sayfa/liste/tehlikeli-atiklar-asbestle-mucadele	Tehlikeli Atıklar (Asbestle Mücadele)
+Beşiktaş	https://cevre.besiktas.bel.tr/	Çevre sitesi ana sayfa
+Beşiktaş	https://cevre.besiktas.bel.tr/blog	Blog yazıları
+Beşiktaş	https://cevre.besiktas.bel.tr/projeler/secap	SECAP
+Bağcılar	https://www.bagcilar.bel.tr/Files/Dokuman/2025_yili_ucret_Tarifeleri.pdf	2025 ücret tarifesi
+Bağcılar	https://www.bagcilar.bel.tr/Files/Dokuman/2026_yili_ucret_tarifeleri.pdf	2026 ücret tarifesi
+Bağcılar	https://www.bagcilar.bel.tr/BBImages/Slider/Image/2023_cevrekorumavekontrol_mudurlugu.pdf	2023 Çevre Koruma ve Kontrol Müdürlüğü
+Bağcılar	https://www.bagcilar.bel.tr/BBImages/Slider/Image/bb_faaliyetraporu2024-22212.pdf	2024 Faaliyet Raporu
+Bağcılar	https://www.bagcilar.bel.tr/BBImages/Slider/Image/faaliyetraporu2018.pdf	2018 Faaliyet Raporu
+Bakırköy	https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/106-mali-hizmetler-mudurlugu-2026-yili-ucret-tarifeleri-05122025.pdf	2026 ücret tarifeleri meclis kararı
+Bakırköy	https://www.bakirkoy.bel.tr/mudurluk/iklim-degisikligi-ve-sifir-atik-mudurlugu/gorevler	İklim Değişikliği ve Sıfır Atık Müdürlüğü görevler
+Arnavutköy	https://www.arnavutkoy.bel.tr/icerik/yikim-ruhsati-	Yıkım Ruhsatı
+Arnavutköy	https://www.arnavutkoy.bel.tr/hizmet-rehberi/1643/yapi-kontrol-ve-iskan-islemleri	Yapı Kontrol ve İskan İşlemleri
+Avcılar	https://www.avcilar.bel.tr/upload/files/vergi-resim-ve-harc-ile-ucret-tarifeleri/vergi-resim-ve-harc-ile-ucret-tarifeleri_4200.pdf	2023 ücret tarifeleri
+Bahçelievler	https://www.bahcelievler.istanbul/bahcelievler-detay/310/929/Kentsel-Donusum-Mudurlugu-2024-Yili-Ucret-Tarifesi/	Kentsel Dönüşüm Müdürlüğü 2024 ücret tarifesi
+Başakşehir	https://www.basaksehir.bel.tr/Content/files/stratejik-yonetim/Faaliyet_Raporlari/2018-faaliyet-raporu(1).pdf	2018 Faaliyet Raporu
+Başakşehir	https://www.basaksehir.bel.tr/Content/files/stratejik-yonetim/Faaliyet_Raporlari/2017_Faaliyet_Raporu.pdf	2017 Faaliyet Raporu
+Başakşehir	https://www.basaksehir.bel.tr/fen-isleri	Fen İşleri
+Zeytinburnu	https://zeytinburnu.istanbul/haberler/abdi-ipekci-spor-salonundaki-asbest-iddialarina-iliskin-duyuru/	Abdi İpekçi asbest duyurusu
+Şişli	https://sisli.bel.tr/hizmetlerimiz/Cevre-Hizmetleri/3	Çevre Hizmetleri
+Şişli	https://www.sisli.bel.tr/hizmet/cevre-hizmetleri	Çevre Hizmetleri
+Şişli	https://www.sisli.bel.tr/Content/directorate/document/file-df21c941.pdf	Hizmet standartları
+Şişli	https://www.sisli.bel.tr/Content/directorate/pdf/file-7e17c79a.pdf	İklim Değişikliği ve Sıfır Atık Müdürlüğü
+Şişli	https://sisli.bel.tr/Content/directorate/document/file-f6cc2edf.pdf	2022 Faaliyet Raporu
+Şişli	https://sisli.bel.tr/Content/directorate/document/file-a271bfc6.pdf	2023 Faaliyet Raporu
+Şişli	https://sisli.bel.tr/Content/directorate/document/file-e476b080.pdf	Hizmet standartları
+Şişli	https://sisli.bel.tr/Content/directorate/document/file-e8a19988.pdf	Hizmet standartları
+Sarıyer	https://sariyer.bel.tr/ckuploads/ckfiles/%C3%87EVRE%20%C3%87ALI%C5%9ETAYLARI%20RAPORU_17.12.2021.pdf?time=1639745378572	Çevre çalıştayları raporu
+Sarıyer	https://sariyer.bel.tr/ckuploads/ckfiles/2024%20Y%C4%B1l%C4%B1%20Kurumsal%20Mali%20Durum%20ve%20Beklentiler%20Raporu.pdf?time=1723796415296	2024 Kurumsal Mali Durum ve Beklentiler
+Sarıyer	https://sariyer.bel.tr/Uploads/TinyMCE/Content/2026/04/76396e3a-62c1-4344-81ee-66de54742bd4.pdf	Faaliyet Raporu (2026/04 yüklenen)
+Sarıyer	https://sariyer.bel.tr/ckuploads/ckfiles/Faaliyet%20Raporu%202020%20Internet.pdf?time=1617972522691	2020 Faaliyet Raporu
+Sarıyer	https://sariyer.bel.tr/Icerik/yapi-kontrol-mudurlugu-yonetmeligi/1454	Yapı Kontrol Müdürlüğü yönetmeliği
+Sarıyer	https://sariyer.bel.tr/Hizmet/kent-esenligi/101	Kent Esenliği
+Kağıthane	https://www.kagithane.istanbul/images/pdf/Faaliyet-Raporu-2024.pdf	2024 Faaliyet Raporu
+Kağıthane	https://www.kagithane.istanbul/images/download/2019_yili_faaliyet_raporu.pdf	2019 Faaliyet Raporu
+Eyüpsultan	https://www.eyupsultan.bel.tr/tr/main/news/baskan-ozmen-2024-faaliyet-raporunu-meclise-s/18002	2024 faaliyet raporu haberi
+Gaziosmanpaşa	https://www.gaziosmanpasa.bel.tr/comments-files/Files/557-2019faaliyetraporuson.pdf	2019 Faaliyet Raporu
+Gaziosmanpaşa	https://www.gaziosmanpasa.bel.tr/comments-files/Files/20zabita-mudurlugu-belediye-emir-ve-yasaklar-yonetmeligi.pdf	Zabıta emir ve yasaklar
+Fatih	https://www.fatih.bel.tr/tr/main/news/vatandaslarimiz-icin-riskli-yapi-denetimi-sur/3769	Riskli yapı denetimi süreci
+Fatih	https://www.fatih.bel.tr/webfiles/userfiles/files/60-g%C3%BCn-tebligat_23032023_135846.pdf	İmar ve Şehircilik 60 gün tebligat
