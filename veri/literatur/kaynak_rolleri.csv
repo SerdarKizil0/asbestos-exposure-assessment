@@ -1,0 +1,27 @@
+no,kaynak_id,kisa_ad,olay_konu,birincil_rol,diger_roller,excel_sayfalari,okuma_durumu
+1,terazono2000,Terazono ve ark. 2000,Kobe 1995 depremi,Model parametresi,Ölçüm; model kurulumu; model sonucu,Parametreler; Ölçümler; Model_Kurulumları; Model_Sonuçları; Hesaplar,Tam metin okundu
+2,gilliam2005,Gilliam ve ark. 2005,11 Eylül 2001 (WTC),Model kurulumu,Parametre; model sonucu,Parametreler; Model_Kurulumları; Model_Sonuçları; Hesaplar,Tam metin okundu
+3,pession2011,Pession ve ark. 2011,"Eternit çatı (Aosta Vadisi, İtalya)",Model kurulumu,Parametre,Parametreler; Model_Kurulumları; Hesaplar,Tam metin okundu
+4,stenchikov2006,Stenchikov ve ark. 2006,11 Eylül 2001 (WTC),Model kurulumu,—,Model_Kurulumları,Özet okundu
+5,atsdr2003,ATSDR 2003,Lif aerodinamiği,Model parametresi,—,Parametreler; Hesaplar,Tam metin okundu
+6,moorcroft1984,Moorcroft ve Duggan 1984,Lif çökelmesi (oda havası),Model parametresi,Ölçüm,Parametreler; Ölçümler; Hesaplar,Özet okundu
+7,lioy2002,Lioy ve ark. 2002,11 Eylül 2001 (WTC),Model parametresi,—,Parametreler,Özet okundu
+8,springston2011,Springston 2011 (AIHA),11 Eylül 2001 (WTC),Model parametresi,Ölçüm,Parametreler; Ölçümler,Tam metin okundu (ikincil derleme)
+9,swayze2006,Swayze ve ark. 2006,11 Eylül 2001 (WTC),Doğrulama ölçümü,Parametre,Parametreler; Ölçümler,Özet okundu
+10,yamamoto1999,Yamamoto ve ark. 1999,Kobe 1995 depremi,Doğrulama ölçümü,—,Ölçümler,Özet okundu
+11,epa2001,EPA 2001,11 Eylül 2001 (WTC),Doğrulama ölçümü,—,Ölçümler,Tam metin okundu
+12,inui2012,Inui ve ark. 2012,Tōhoku 2011 depremi,Doğrulama ölçümü,Parametre (enkaz ölçeği),Parametreler; Ölçümler,Tam metin okundu
+13,baran2024,Baran ve ark. 2024,6 Şubat 2023 (Malatya),Doğrulama ölçümü,Parametre (yıkım ölçeği),Parametreler; Ölçümler,Özet bildirinin tamamı okundu
+14,oral2025,Oral ve ark. 2025,6 Şubat 2023 (Kahramanmaraş/Hatay),Doğrulama ölçümü,—,Ölçümler,Özet okundu
+15,beck2003,Beck ve ark. 2003,Baltimore bina patlatması (2000),Doğrulama ölçümü,—,Ölçümler,Kurum basın özeti okundu
+16,stefani2005,Stefani ve ark. 2005,Calgary bina patlatması (1998),Doğrulama ölçümü,—,Ölçümler,"Özet, ikincil sayfada okundu"
+17,neitzel2020,Neitzel ve ark. 2020,Detroit acil yıkımları,Doğrulama ölçümü,—,Ölçümler,Kurum basın özeti okundu
+18,dukeforest1996,Duke Forest 1996,İzleyici gaz deneyi (1995),Model sapması,—,Parametreler,Özet okundu
+19,ravina2022,Ravina ve ark. 2022,Model karşılaştırması,Model sapması,—,Parametreler,Özet okundu
+20,hochrainer1989,Hochrainer 1989,Eternit levha salımı,Doğrulanamadı,Parametre,Parametreler,Açılamadı (yalnızca yayın kaydı özeti görüldü)
+21,kottek_yuen2022,Spurny (Kottek ve Yuen 2022 aktarımı),Eternit levha salımı,Doğrulanamadı,Parametre,Parametreler,Açılamadı (ikincil aktarım)
+22,lorber2007,Lorber ve ark. 2007,11 Eylül 2001 (WTC),Sayısal yayılım verisi yok,Niteliksel bulgu,—,Özet okundu
+23,nrc2003,NRC 2003,WTC modelleme dersleri,Sayısal yayılım verisi yok,Niteliksel bulgu,—,"Sayfa açıldı, metin görüntülenemedi"
+24,ervik2021,Ervik ve ark. 2021,Eternit çatı (Norveç),Sayısal yayılım verisi yok,Niteliksel bulgu,—,İkincil özet okundu
+25,ers2026,ERS derlemesi 2026,Deprem ve solunum sağlığı,Sayısal yayılım verisi yok,Hatay: 20 toz örneğinden 2'sinde asbest benzeri parçacık (tespit sayısı),—,Tam metin okundu
+26,tema2024,TEMA Vakfı 2024,6 Şubat 2023 (Hatay),Sayısal yayılım verisi yok,"Toprak/enkaz 7 örnekten 5'i, su 3 örnekten 2'si asbestli (tespit sayısı)",—,Tam metin okundu

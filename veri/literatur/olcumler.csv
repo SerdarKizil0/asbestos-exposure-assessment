@@ -1,0 +1,54 @@
+olcum_id,olay,yer_nokta,donem,olculen,yontem,deger,alt,ust,birim,n,kaynak_no,kaynak_id,kaynak,yer,okuma,dogrulandi,not
+M01,Kobe 1995,"Deprem bölgesi, Çevre Ajansı izleme noktaları",Şubat–Haziran 1995,Havadaki asbest lifi (birçok noktada),PCM,,1,2,lif/L,17 nokta,1,terazono2000,Terazono ve ark. 2000,§2.2,tam_metin,hayir,"'Yaklaşık 1–2 lif/L veya üzeri'; tespit sınırı 0,2 lif/L."
+M02,Kobe 1995,"Deprem bölgesi, Çevre Ajansı izleme noktaları",Şubat–Haziran 1995,"Havadaki asbest lifi, en yüksek",PCM,6,,,lif/L,17 nokta,1,terazono2000,Terazono ve ark. 2000,§2.2,tam_metin,hayir,
+M03,Kobe 1995 (karşılaştırma),"Ana yol kenarı, olağan ortam",1995,Havadaki asbest lifi,PCM,0.41,,,lif/L,,1,terazono2000,Terazono ve ark. 2000,§2.2,tam_metin,hayir,Çevre Ajansı'nın 1995 ortam değeri.
+M04,Kobe 1995 (karşılaştırma),"Konut alanı, olağan ortam",1995,Havadaki asbest lifi,PCM,0.19,,,lif/L,,1,terazono2000,Terazono ve ark. 2000,§2.2,tam_metin,hayir,Çevre Ajansı'nın 1995 ortam değeri.
+M05,Kobe 1995,"16 bina, söküm öncesi, iç ortam",1995,"Asbest lifi, geometrik ortalama",PCM,2.2,,144,lif/L,80,1,terazono2000,Terazono ve ark. 2000,Tablo 1,tam_metin,hayir,"En düşük değer tespit sınırının altında (<0,2). Tablo sütun eşleşmesi PDF metninden çıkarıldı."
+M06,Kobe 1995,"16 bina, söküm öncesi, dış ortam",1995,"Asbest lifi, geometrik ortalama",PCM,0.4,,1.6,lif/L,37,1,terazono2000,Terazono ve ark. 2000,Tablo 1,tam_metin,hayir,"En düşük değer <0,2."
+M07,Kobe 1995,"16 bina, söküm sırasında, iç ortam",1995,"Asbest lifi, geometrik ortalama",PCM,800,20,130000,lif/L,37,1,terazono2000,Terazono ve ark. 2000,Tablo 1,tam_metin,hayir,Tespit sınırı altındaki bazı veriler yazarlarca çıkarılmış.
+M08,Kobe 1995,"16 bina, söküm sırasında, kapı çevresi",1995,"Asbest lifi, geometrik ortalama",PCM,1.5,,6.7,lif/L,41,1,terazono2000,Terazono ve ark. 2000,Tablo 1,tam_metin,hayir,"En düşük değer <0,2."
+M09,Kobe 1995,"16 bina, söküm sırasında, egzoz çıkışı",1995,"Asbest lifi, geometrik ortalama",PCM,0.7,,3.2,lif/L,31,1,terazono2000,Terazono ve ark. 2000,Tablo 1,tam_metin,hayir,"En düşük değer <0,2."
+M10,Kobe 1995,"16 bina, söküm sırasında, dış ortam",1995,"Asbest lifi, geometrik ortalama",PCM,0.8,,25,lif/L,69,1,terazono2000,Terazono ve ark. 2000,Tablo 1,tam_metin,hayir,"En düşük değer <0,2."
+M11,Kobe 1995,"16 bina, söküm sonrası, iç ortam",1995,"Asbest lifi, geometrik ortalama",PCM,0.4,,1.7,lif/L,76,1,terazono2000,Terazono ve ark. 2000,Tablo 1,tam_metin,hayir,"En düşük değer <0,2."
+M12,Kobe 1995,"16 bina, söküm sonrası, dış ortam",1995,"Asbest lifi, geometrik ortalama",PCM,0.3,,1,lif/L,51,1,terazono2000,Terazono ve ark. 2000,Tablo 1,tam_metin,hayir,"En düşük değer <0,2."
+M13,Kobe 1995,"Bina A yıkımı (asbest sökümü sonrası), parsel sınırı",1995,"Asbest lifi, en yüksek",PCM,14.7,,,lif/L,,1,terazono2000,Terazono ve ark. 2000,§3.2,tam_metin,hayir,Sökülemeyen püskürtme asbest kalmıştı.
+M14,Kobe 1995,"Bina A yıkımı, parsel sınırı (TEM için seçilen örnek)",1995,Asbest lifi,PCM,11.3,,,lif/L,1,1,terazono2000,Terazono ve ark. 2000,§3.2,tam_metin,hayir,
+M15,Kobe 1995,"Bina A yıkımı, aynı örnek",1995,"Krizotil lifi, 5 µm'den uzun",TEM-EDS,78,,,lif/L,1,1,terazono2000,Terazono ve ark. 2000,§3.2,tam_metin,hayir,
+M16,Kobe 1995,"Bina B yıkımı (asbest sökümü sonrası), parsel sınırı",1995,Asbest lifi (genelde),PCM,,,1,lif/L,,1,terazono2000,Terazono ve ark. 2000,§3.2,tam_metin,hayir,"'Genelde 1,0 lif/L'nin altında'."
+M17,Kobe 1995,"Asbesti sökülmeden yıkılan krokidolitli apartman, parsel sınırı",Depremden bir ay sonra,"Asbest lifi, 1. örnek",PCM,160,,,lif/L,1,1,terazono2000,Terazono ve ark. 2000,§3.3,tam_metin,hayir,Sakinler eşya aradığı için su püskürtülmüyordu.
+M18,Kobe 1995,"Aynı yıkım, parsel sınırı",Depremden bir ay sonra,"Asbest lifi, 2. örnek",PCM,250,,,lif/L,1,1,terazono2000,Terazono ve ark. 2000,§3.3,tam_metin,hayir,
+M19,Kobe 1995,"Aynı yıkım, 250 lif/L'lik filtre",Depremden bir ay sonra,"Asbest lifi, tüm boylar",TEM,5300,,,lif/L,1,1,terazono2000,Terazono ve ark. 2000,§3.3,tam_metin,hayir,
+M20,Kobe 1995,"Aynı yıkım, 250 lif/L'lik filtre",Depremden bir ay sonra,"Asbest lifi, 5 µm'den uzun",TEM,310,,,lif/L,1,1,terazono2000,Terazono ve ark. 2000,§3.3,tam_metin,hayir,
+M21,Kobe 1995,Yıkım sahaları çevresi,1995,Toplam toz,Belirtilmemiş (özet),,0.2,0.23,mg/m³,,10,yamamoto1999,Yamamoto ve ark. 1999,Özet,ozet,hayir,
+M22,Kobe 1995,Yıkım sahaları / yıkım olmayan alan,1995,Toplam toz oranı,—,,1.2,2.2,kat,,10,yamamoto1999,Yamamoto ve ark. 1999,Özet,ozet,hayir,
+M23,Kobe 1995,Yıkım sahaları çevresi,1995,Baskın parçacık boyutu,—,,2.1,11,µm,,10,yamamoto1999,Yamamoto ve ark. 1999,Özet,ozet,hayir,
+M24,Kobe 1995,"Ahşap bina yıkımları, önceki gün yağmur yağmışsa",1995,Toz derişimindeki değişim,—,0.5,,,kat (oran),,10,yamamoto1999,Yamamoto ve ark. 1999,Özet,ozet,hayir,'Yaklaşık yarıya indi'; beton bina yıkımlarında değişmedi.
+M25,Kobe 1995,Yıkım işçisi,1995,Solunabilir toz maruziyeti,Kişisel örnekleme,4,,,mg/m³,,10,yamamoto1999,Yamamoto ve ark. 1999,Özet,ozet,hayir,Önerilen 2 mg/m³ sınırının iki katı.
+M26,WTC 2001,"Aşağı Manhattan, sabit hava monitörleri",11 Eylül – 1 Kasım 2001,Toplam asbest örneği,AHERA eşiğiyle karşılaştırma,1605,,,örnek,,11,epa2001,EPA 2001,3 Kasım 2001 özeti,tam_metin,hayir,
+M27,WTC 2001,"Aşağı Manhattan, sabit hava monitörleri",11 Eylül – 1 Kasım 2001,AHERA 70 yapı/mm² eşiğini aşan örnek,AHERA eşiğiyle karşılaştırma,28,,,örnek,1605,11,epa2001,EPA 2001,3 Kasım 2001 özeti,tam_metin,hayir,"27'si 30 Eylül'den önce, 1'i 9 Ekim'de alınmış."
+M28,WTC 2001,"Aşağı Manhattan, sabit hava monitörleri",30 Eylül 2001 öncesi,AHERA eşiğini aşan örnek,AHERA eşiğiyle karşılaştırma,27,,,örnek,,11,epa2001,EPA 2001,3 Kasım 2001 özeti,tam_metin,hayir,
+M29,WTC 2001,"Staten Island döküm sahası, eleme ve yıkama alanları",30 Ekim 2001,Aşırı yüklendiği için analiz edilemeyen filtre,—,7,,,filtre,,11,epa2001,EPA 2001,3 Kasım 2001 özeti,tam_metin,hayir,Yoğun tozun dolaylı göstergesi.
+M30,WTC 2001,"Staten Island döküm sahası, enkaz eleyen işçiler",Eylül 2001,OSHA asbest sınırını aşan kişisel örnek,Kişisel örnekleme,12,,,örnek,21,8,springston2011,Springston 2011 (AIHA),'Airborne exposures' bölümü,ikincil,hayir,
+M31,WTC 2001,"WTC çevresi, 1 km yarıçap",17–18 Eylül 2001,Çökmüş toz örnekleme noktası,Spektroskopi ve XRD,34,,,nokta,,9,swayze2006,Swayze ve ark. 2006,Özet,ozet,hayir,
+M32,WTC 2001,WTC çevresi,17–18 Eylül 2001,Eser krizotilin taşındığı mesafe (alt sınır),Spektroskopi ve XRD,,0.75,,km,,9,swayze2006,Swayze ve ark. 2006,Özet,ozet,hayir,"'0,75 km'den öteye, her yöne'; dağılım düzensiz."
+M33,Tōhoku 2011,Asbest söküm işlerinin havalandırma çıkışları yakını,2011,Havadaki asbest lifi (alt sınır),Belirtilmemiş,,10,,lif/L,,12,inui2012,Inui ve ark. 2012,§2.3,tam_metin,hayir,Genel ortam (geçici enkaz depoları dahil) olağan değerlere benzer bulundu; sayı verilmemiş.
+M34,Malatya 2024,Enkaz döküm sahası,9–10 Mayıs 2024,Lifli toz,PCM (HSG 248),0.012,,,lif/cm³,1 nokta,13,baran2024,Baran ve ark. 2024,Bulgular,tam_metin,hayir,SEM/EDXA ile asbest lifi saptanmadı.
+M35,Malatya 2024,Aktif yıkım alanları,9–10 Mayıs 2024,Lifli toz,PCM (HSG 248),,0.004,0.01,lif/cm³,4 nokta,13,baran2024,Baran ve ark. 2024,Bulgular,tam_metin,hayir,SEM/EDXA ile asbest lifi saptanmadı.
+M36,Malatya 2024,Yıkım olmayan bölge (kontrol),9–10 Mayıs 2024,Lifli toz,PCM (HSG 248),0.001,,,lif/cm³,1 nokta,13,baran2024,Baran ve ark. 2024,Bulgular,tam_metin,hayir,
+M37,Malatya 2024,Enkaz döküm sahası,9–10 Mayıs 2024,Toplam toz,Gravimetrik (MDHS 14/3),1.11,,,mg/m³,1 nokta,13,baran2024,Baran ve ark. 2024,Bulgular,tam_metin,hayir,
+M38,Malatya 2024,Aktif yıkım alanları,9–10 Mayıs 2024,Toplam toz,Gravimetrik (MDHS 14/3),,0.65,0.82,mg/m³,4 nokta,13,baran2024,Baran ve ark. 2024,Bulgular,tam_metin,hayir,
+M39,Malatya 2024,Yıkım olmayan bölge (kontrol),9–10 Mayıs 2024,Toplam toz,Gravimetrik (MDHS 14/3),0.49,,,mg/m³,1 nokta,13,baran2024,Baran ve ark. 2024,Bulgular,tam_metin,hayir,
+M40,Malatya 2024,Enkaz döküm sahası,9–10 Mayıs 2024,Solunabilir toz,Gravimetrik (MDHS 14/3),0.85,,,mg/m³,1 nokta,13,baran2024,Baran ve ark. 2024,Bulgular,tam_metin,hayir,
+M41,Malatya 2024,Aktif yıkım alanları,9–10 Mayıs 2024,Solunabilir toz,Gravimetrik (MDHS 14/3),,0.46,0.7,mg/m³,4 nokta,13,baran2024,Baran ve ark. 2024,Bulgular,tam_metin,hayir,
+M42,Malatya 2024,Yıkım olmayan bölge (kontrol),9–10 Mayıs 2024,Solunabilir toz,Gravimetrik (MDHS 14/3),0.16,,,mg/m³,1 nokta,13,baran2024,Baran ve ark. 2024,Bulgular,tam_metin,hayir,
+M43,Kahramanmaraş 2023,Enkaz kaldırma çalışmaları,5 gün,"Solunabilir toz, ortalama",Toz monitörü + MDHS 14/3,30.84,,,mg/m³,,14,oral2025,Oral ve ark. 2025,Özet,ozet,hayir,SEM-EDX'te asbestle ilişkili elementler içeren lifli yapılar.
+M44,Kahramanmaraş 2023,Enkaz kaldırma çalışmaları,5 gün,"Toplam toz, ortalama",Toz monitörü + MDHS 14/3,33.66,,,mg/m³,,14,oral2025,Oral ve ark. 2025,Özet,ozet,hayir,
+M45,Baltimore 2000,"22 katlı bina patlatması, yakın noktalar",19 Ağustos 2000,"Toz artışı, olay öncesine göre (en yüksek)",Partikül madde (PM10),3000,,,kat,"4 dış, 7 iç nokta",15,beck2003,Beck ve ark. 2003,Basın özeti,ikincil,hayir,Rüzgâr üstünde ve iç mekânda ölçülebilir etki yok.
+M46,Baltimore 2000,"En uzak dış nokta (7,5 blok)",19 Ağustos 2000,"Toz artışı, olay öncesine göre",Partikül madde (PM10),20,,,kat,,15,beck2003,Beck ve ark. 2003,Basın özeti,ikincil,hayir,
+M47,Baltimore 2000,Dış noktalar,19 Ağustos 2000,Tepe derişim süresi,Partikül madde (PM10),,15,20,dakika,,15,beck2003,Beck ve ark. 2003,Basın özeti,ikincil,hayir,
+M48,Calgary 1998,Rüzgâr altı,1998,Hava kalitesinin etkilendiği en uzak mesafe,Belirtilmemiş (özet),,,20,km,,16,stefani2005,Stefani ve ark. 2005,Özet,ikincil,hayir,
+M49,Calgary 1998,Rüzgâr altı,1998,Yazarların önerdiği uyarı bölgesi,—,,10,20,km,,16,stefani2005,Stefani ve ark. 2005,Özet,ikincil,hayir,
+M50,Detroit 2014–2019,25 acil konut yıkımı,—,Yakalanan asbest lifi,"Yaygın, ucuz ama daha az doğru test; bir kısmında tür ayırt eden pahalı test",2,,,lif,101,17,neitzel2020,Neitzel ve ark. 2020,Basın özeti,ikincil,hayir,İki ayrı konuttan birer lif; yıkımlarda su kullanılıyordu.
+M51,Londra okulu (oda havası),"Amozit tavanı sökülmüş okul, karıştırma yok",Yayın 1984,Asbest lifi (tüm ölçümler),Belirtilmemiş (özet),,,0.01,lif/mL,,6,moorcroft1984,Moorcroft ve Duggan 1984,Özet,ozet,hayir,1 lif/mL = 1 lif/cm³.
+M52,Londra okulu (oda havası),"Aynı ortam, toz karıştırıldıktan sonra",Yayın 1984,"Asbest lifi, en yüksek",Belirtilmemiş (özet),0.47,,,lif/mL,,6,moorcroft1984,Moorcroft ve Duggan 1984,Özet,ozet,hayir,
+M53,Londra okulu (oda havası),"Aynı ortam, 30 dk karıştırmasız bekleme",Yayın 1984,"Asbest lifi (0,01'den düştü)",Belirtilmemiş (özet),0.004,,,lif/mL,,6,moorcroft1984,Moorcroft ve Duggan 1984,Özet,ozet,hayir,

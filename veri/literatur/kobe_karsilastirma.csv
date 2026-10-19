@@ -1,0 +1,7 @@
+kalem,aciklama,deger,alt,ust,birim,kaynak_id
+Hesaplanan derişim artışı,"16 izleme noktası, Şubat–Nisan 1995, sökümsüz yıkım kaynaklı",0.1,0.01,0.31,lif/L,terazono2000
+Ölçülen derişim artışı,Şubat–Nisan geometrik ortalaması eksi Ağustos–Ekim geometrik ortalaması,,-0.07,3.4,lif/L,terazono2000
+Regresyon eğimi (orijinden),"1, 2 ve 6. noktalar (yakınlarında büyük kaynak) hariç; y = ölçülen, x = hesaplanan",4.94,,,—,terazono2000
+Belirleme katsayısı R²,Aynı regresyon; %5 düzeyinde zayıf pozitif ilişki,0.411,,,—,terazono2000
+Hesap / ölçüm oranı,'Yaklaşık beşte biri',0.2,,,—,terazono2000
+"Ortalama hasar oranıyla (%8,8) hesap",Hücre bazlı hasar oranı yerine tek ortalama kullanılınca,,,,Korelasyon yok,terazono2000

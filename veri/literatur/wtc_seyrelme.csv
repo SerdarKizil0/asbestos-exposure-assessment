@@ -1,0 +1,17 @@
+tarih_donem,meteorolojik_durum,karisim_alt_m,karisim_ust_m,ruzgar_alt_ms,ruzgar_ust_ms,seyrelme_alt,seyrelme_ust,mesafe_alt_km,mesafe_ust_km,gozlem_pm25,not,kaynak_id
+"11 Eyl 2001, 11:00","Kuzeybatılı orta rüzgâr, konvektif karışım",100,800,4,6,1000,10000,,3,İstasyonlarda PM2.5 normalin %50–75'i (bulut istasyonların üzerinden geçmedi),"Karışım yüksekliği sabah 100–200 m, öğlen 600–800 m; rüzgâr ilk 12–18 saatte kuzeyli 4–6 m/s; seyrelme rüzgâr altında 3 km içinde",gilliam2005
+"12 Eyl 2001, 07:00","Yüksek basınç, hafif rüzgâr",300,400,,,100,1000,,15,Ölçümlerin çoğu normalin %75'inin altında (normal 16–17 µg/m³),10²–10³ eğrileri 15 km'ye uzandı,gilliam2005
+"12 Eyl 2001, 15:00","Deniz meltemi cephesi, güneyli akış",1300,1500,,,1000,,,,ps64 (Aşağı Manhattan) normalin %480'i (60 µg/m³),Aşağı Manhattan dışında en az 10³ kat seyrelme,gilliam2005
+"12 Eyl 2001, 18:00",Bulut Hudson Nehri boyunca,,,,,1000,,,,Fort Lee normalin %213'ü (32 µg/m³; normal 15),Kaynaktan birkaç km içinde genelde 10³'ün üstünde seyrelme,gilliam2005
+"13 Eyl 2001, 01:00–09:00","Kararlı gece, bulut kuzeyden doğuya döndü",,,,,,,,,Bulut geçtikten 1–2 saat sonra istasyonlarda normalin %200–350'si; 09:00'da ps64 ve ps199 normalin %600–1000'i (normal 15–19 µg/m³),,gilliam2005
+11–13 Eyl 2001 ortalaması,KB–KD rüzgâr %45; GB rüzgâr %50'den fazla,,,2,4,1000,10000,,,ps64 üç günlük ortalama 22 µg/m³; diğer istasyonlar 10–15 µg/m³,Rüzgâr değerleri GB akış için; 10³–10⁴ seyrelme kuzeyli akışta bulut Brooklyn üzerine varmadan önce,gilliam2005
+14–16 Eyl 2001,K–KD rüzgâr %85,,,,,,,,,,10³ eğrisi önceki döneme göre daha uzağa uzandı (su üstünde düşük karışım),gilliam2005
+17–23 Eyl 2001,Güneyli rüzgâr %75,,,,5,,,,,,Rüzgâr genelde 5 m/s'nin altında,gilliam2005
+"17 Eyl 2001, 12:00",Hafif ve değişken rüzgâr,300,1400,,,1000,10000,,,Ölçümler normalin altında (Fort Lee hariç),"Karışım yüksekliği limanda 300–400 m, karada 1200–1400 m; seyrelme limanda 10³, karada 10⁴",gilliam2005
+"17 Eyl 2001, 18:00",Deniz meltemi cephesi,800,1100,,,100,1000,10,20,Fort Lee normalin yaklaşık %200'ü,"100–500 eğrileri 10–12 km'ye, 10³ eğrisi 20 km'ye uzandı",gilliam2005
+"18 Eyl 2001, 01:00",Kararlı gece,150,200,,,,,,,ps64 normalin %445'i (normal 14 µg/m³),,gilliam2005
+"3 Eki 2001, 05:00","Güneybatılı akış, çok düşük karışım",,100,1,2,100,500,15,20,"Tüm bölge normalin %200–300'ü (bölgesel kirlilik, WTC kaynaklı değil)",Bulut genişliği (10⁴ eğrisi) eksenden 5 km'ye kadar,gilliam2005
+"3 Eki 2001, 15:00",Güçlü güneybatı rüzgârı,,1500,,,,,,,WTC yakınında normalin %360'ı,10³'ten düşük seyrelme yalnızca kaynak hacminin üstünde; karışım yüksekliği yaklaşık 1500 m,gilliam2005
+Gece koşulları (genel),"Kararlı atmosfer, düşük karışım",,,,,10000,,30,,Yüksek gözlenen değerler gece,10⁴ eğrisi kaynaktan 30 km'den uzağa; 10³ eğrisi Long Island'a,gilliam2005
+Gündüz koşulları (genel),Konvektif karışım,,,,,1000,,,,,Bulut Aşağı Manhattan'dan çıkınca 10³ kattan fazla seyreldi,gilliam2005
+11 Eyl – 8 Ara 2001 ortalaması,GB–KB rüzgârlar zamanın 2/3'ü,,,,,10000,,17,,Üç aylık ortalamalarda istasyonlar arasında belirgin fark yok,"10⁴ eğrisi yaklaşık 17 km (batı Long Island, Queens)",gilliam2005

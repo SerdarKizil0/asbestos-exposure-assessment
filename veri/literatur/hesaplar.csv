@@ -1,0 +1,74 @@
+satir,tur,kalem,deger,birim,makale_degeri,fark,not,girdi,deger_bicimi,makale_bicimi
+1,baslik,"Makalelerdeki hesapların yeniden yapılması ve birim dönüşümleri. Mavi = kaynaktan alınan değer, siyah = formül, sarı = varsayım veya değiştirilebilir girdi.",,,,,,,General,General
+3,bolum,"1. Birim dönüşümü (1 lif/L = 0,001 lif/cm³ = 1.000 lif/m³; 1 lif/mL = 1 lif/cm³)",,,,,,,General,General
+4,sutun_basligi,Kalem,Değer,Birim,Makaledeki değer,Fark,Not,,General,General
+5,kalem,Girdi: lif/L,1,lif/L,,,Değiştirilebilir örnek girdi.,varsayim,General,General
+6,kalem,Karşılığı: lif/cm³,=B5/1000,lif/cm³,,,,formul,0.000,General
+7,kalem,Karşılığı: lif/m³,=B5*1000,lif/m³,,,,formul,"#,##0",General
+8,kalem,Girdi: lif/cm³,0.1,lif/cm³,,,Değiştirilebilir örnek girdi.,varsayim,General,General
+9,kalem,Karşılığı: lif/L,=B8*1000,lif/L,,,,formul,"#,##0.0",General
+11,bolum,"2. Terazono ve ark. (2000) stok ve salım zincirinin yeniden hesabı (Kaynak No 1, §4.2–4.3)",,,,,,,General,General
+12,sutun_basligi,Kalem,Değer,Birim,Makaledeki değer,Fark,Not,,General,General
+13,kalem,Az katlı (1–2 kat) binaların taban alanı,41330000,m²,,,,kaynak,"#,##0",General
+14,kalem,Orta/yüksek (≥3 kat) binaların taban alanı,12330000,m²,,,,kaynak,"#,##0",General
+15,kalem,"Ortalama kat sayısı, az katlı",1.6,kat,,,,kaynak,General,General
+16,kalem,"Ortalama kat sayısı, orta/yüksek",5,kat,,,,kaynak,General,General
+17,kalem,"S/RC/SRC payı, az katlı",0.38,oran,,,,kaynak,0%,General
+18,kalem,"S/RC/SRC payı, orta/yüksek",1,oran,,,,kaynak,0%,General
+19,kalem,1957–1980 arasında yapılmış bina payı,0.5,oran,,,,kaynak,0%,General
+20,kalem,Japonya'da kullanılan püskürtme asbest,170000,t,,,,kaynak,"#,##0",General
+21,kalem,Japonya'da S/RC/SRC kat alanı (1957–1980),1970000000,m²,,,,kaynak,"#,##0",General
+22,kalem,Yıkıma giden asbest (mahalle bazında hesap; burada tekrarlanamaz),1320,t,,,,kaynak,"#,##0",General
+23,kalem,Yıkım oranı (Şubat–Nisan 1995),0.2,oran,,,,kaynak,0%,General
+24,kalem,Salım faktörü (sökümsüz yıkım),0.0001,kg/kg,,,,kaynak,0.00%,General
+25,kalem,Kütleden lif sayısına dönüşüm,30,lif/ng,,,,kaynak,General,General
+27,kalem,Toplam kat alanı,=B13*B15+B14*B16,m²,128000000,"=IF(D27=0,"""",(B27-D27)/D27)",Makalede 'yaklaşık 128 milyon m²'.,formul,"#,##0","#,##0"
+28,kalem,Asbest dönemi S/RC/SRC kat alanı,=(B13*B15*B17+B14*B16*B18)*B19,m²,43400000,"=IF(D28=0,"""",(B28-D28)/D28)","Makalede 'yaklaşık 43,4 milyon m²'.",formul,"#,##0","#,##0"
+29,kalem,Püskürtme asbest birim yükü,=B20*1000/B21,kg/m²,0.086,"=IF(D29=0,"""",(B29-D29)/D29)","Makalede 0,086'ya yuvarlanmış.",formul,0.0000,0.0000
+30,kalem,Deprem bölgesi stoku,=B28*B29/1000,t,3740,"=IF(D30=0,"""",(B30-D30)/D30)","Yuvarlanmış değerlerle (43,4 milyon × 0,086) 3.732 t çıkar; makale 3.740 t veriyor.",formul,"#,##0","#,##0"
+31,kalem,Toplam salım (Şubat–Nisan 1995),=B22*B23*B24*1000,kg,26.4,"=IF(D31=0,"""",(B31-D31)/D31)",,formul,0.0,0.0
+32,kalem,Salınan lif sayısı (türetilmiş),=B31*1000000000000*B25,lif,,,Makalede yok: 1 kg = 10¹² ng ile 30 lif/ng katsayısından türetildi.,formul,0.00E+00,General
+34,bolum,"3. Gilliam ve ark. (2005) kaynak hacmi derişiminin kontrolü (Kaynak No 2, §2.1)",,,,,,,General,General
+35,sutun_basligi,Kalem,Değer,Birim,Makaledeki değer,Fark,Not,,General,General
+36,kalem,Saatlik salım (yalnızca çalıştırma için),100,kg/saat,,,,kaynak,General,General
+37,kalem,Kaynak hacmi taban uzunluğu (x),500,m,,,,kaynak,General,General
+38,kalem,Kaynak hacmi taban uzunluğu (y),500,m,,,,kaynak,General,General
+39,kalem,Kaynak hacmi yüksekliği,50,m,,,,kaynak,General,General
+40,kalem,Kaynak hacmi,=B37*B38*B39,m³,,,,formul,"#,##0",General
+41,kalem,Hacimdeki derişim (1 saatlik salım),=B36*1000000000/B40,µg/m³,8000,"=IF(D41=0,"""",(B41-D41)/D41)",Seyrelme faktörünün paydası.,formul,"#,##0","#,##0"
+43,bolum,"4. Pession ve ark. (2011) çatı salımlarının kontrolü (Kaynak No 3, Tablo 5)",,,,,,,General,General
+44,sutun_basligi,Kalem,Değer,Birim,Makaledeki değer,Fark,Not,,General,General
+45,kalem,Birim yüzey salımı,1,µg/(m²·s),,,,kaynak,General,General
+46,kalem,Büyük çatı genişliği,40,m,,,,kaynak,General,General
+47,kalem,Büyük çatı uzunluğu,64,m,,,,kaynak,General,General
+48,kalem,Küçük çatı genişliği,32,m,,,,kaynak,General,General
+49,kalem,Küçük çatı uzunluğu,24,m,,,,kaynak,General,General
+50,kalem,Büyük çatı salımı,=B46*B47*B45*3600,µg/saat,9000000,"=IF(D50=0,"""",(B50-D50)/D50)",Makaledeki tablo değeri alan × birim salımdan biraz farklı; makaledeki değer esas alınmalı.,formul,"#,##0","#,##0"
+51,kalem,Küçük çatı salımı,=B48*B49*B45*3600,µg/saat,2800000,"=IF(D51=0,"""",(B51-D51)/D51)",,formul,"#,##0","#,##0"
+53,bolum,5. Çökelme hızı: Moorcroft ve Duggan (1984) süreleri ve Stokes kontrolü (Kaynak No 5 ve 6),,,,,,,General,General
+54,sutun_basligi,Kalem,Değer,Birim,Makaledeki değer,Fark,Not,,General,General
+55,kalem,Düşme yüksekliği,2,m,,,,kaynak,General,General
+56,kalem,"Lif çapı, büyük",3,µm,,,,kaynak,General,General
+57,kalem,"Lif çapı, küçük",0.5,µm,,,,kaynak,General,General
+58,kalem,"Düşme süresi, 3 µm lif",13,dakika,,,Kaynak No 6; büyük deneysel hata uyarısı için Parametreler P29'a bakın.,kaynak,General,General
+59,kalem,"Düşme süresi, 0,5 µm lif",480,dakika,,,,kaynak,General,General
+60,kalem,"Çökelme hızı, 3 µm lif (süreden)",=B55/(B58*60)*1000,mm/s,,,,formul,0.000,General
+61,kalem,"Çökelme hızı, 0,5 µm lif (süreden)",=B55/(B59*60)*1000,mm/s,,,,formul,0.0000,General
+62,kalem,Aerodinamik çap / lif çapı,3,kat,,,ATSDR paneli (Stöber 1970; Timbrell 1972).,kaynak,General,General
+63,kalem,Birim yoğunluk ρ₀,1000,kg/m³,,,'Birim yoğunluklu küre' tanımı gereği.,kaynak,"#,##0",General
+64,kalem,Yerçekimi ivmesi g,9.81,m/s²,,,Fiziksel sabit.,varsayim,General,General
+65,kalem,Havanın dinamik viskozitesi μ,1.81e-05,Pa·s,,,Varsayım: yaklaşık 20 °C hava. Kaynaklarda verilmedi.,varsayim,0.00E+00,General
+66,kalem,"Stokes hızı, 3 µm lif",=B63*B64*(B62*B56*0.000001)^2/(18*B65)*1000,mm/s,,,,formul,0.000,General
+67,kalem,"Stokes ile 2 m düşme süresi, 3 µm lif",=B55/(B66/1000)/60,dakika,13,"=IF(D67=0,"""",(B67-D67)/D67)",Kayma düzeltmesi ihmal edildi.,formul,0.0,0.0
+68,kalem,"Stokes hızı, 0,5 µm lif",=B63*B64*(B62*B57*0.000001)^2/(18*B65)*1000,mm/s,,,,formul,0.0000,General
+69,kalem,"Stokes ile 2 m düşme süresi, 0,5 µm lif",=B55/(B68/1000)/60,dakika,480,"=IF(D69=0,"""",(B69-D69)/D69)",Kayma düzeltmesi ihmal edildi.,formul,0,0
+70,kalem,Örnek bırakılma yüksekliği,10,m,,,Varsayım: yaklaşık 3 katlı bina yüksekliği; değiştirilebilir.,varsayim,General,General
+71,kalem,"Yalnızca çökelmeyle yere inme süresi, 0,5 µm lif",=B70/(B61/1000)/3600,saat,,,Moorcroft ve Duggan süresinden türetilen hızla; türbülans ve seyrelme hesaba katılmadı.,formul,0.0,General
+73,bolum,6. Kobe ölçüm oranları: sökümsüz yıkım sınırı / olağan ortam (Kaynak No 1),,,,,,,General,General
+74,sutun_basligi,Kalem,Değer,Birim,Makaledeki değer,Fark,Not,,General,General
+75,kalem,"Sökümsüz yıkım sınırı, PCM, 1. örnek",160,lif/L,,,,kaynak,General,General
+76,kalem,"Sökümsüz yıkım sınırı, PCM, 2. örnek",250,lif/L,,,,kaynak,General,General
+77,kalem,"Olağan ortam, ana yol",0.41,lif/L,,,,kaynak,General,General
+78,kalem,"Olağan ortam, konut alanı",0.19,lif/L,,,,kaynak,General,General
+79,kalem,En düşük oran,"=MIN(B75,B76)/MAX(B77,B78)",kat,,,Belgedeki grafik başlığındaki '~400' değerinin kontrolü.,formul,"#,##0",General
+80,kalem,En yüksek oran,"=MAX(B75,B76)/MIN(B77,B78)",kat,,,Belgedeki grafik başlığındaki '~1.300' değerinin kontrolü.,formul,"#,##0",General
