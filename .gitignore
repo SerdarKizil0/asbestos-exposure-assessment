@@ -1,0 +1,100 @@
+# Bu depo HERKESE AÇIKTIR. Kurallar CLAUDE.md'de; src/denetle.py her commit'ten önce denetler.
+
+# --- Hiç girmeyen klasörler ---
+# gelen/: ChatGPT notları, PDF'ler, eski Excel'ler, ZIP arşivleri, kopyalar
+gelen/
+# veri/ham/: indirilen özgün belgeler, istek günlüğü, OSM klonu (silinmez, yalnız yerelde)
+veri/ham/
+
+# --- Telifli olabilecek belgeler ve ekran görüntüleri (her yerde) ---
+*.pdf
+*.PDF
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.bmp
+*.tif
+*.tiff
+*.heic
+*.shp
+*.shx
+*.dbf
+# İstisna: yalnız betiğin ürettiği şekiller, bilerek seçilerek
+!ciktilar/sekiller/*.png
+!ciktilar/sekiller/*.svg
+
+# --- Video ve arşivler ---
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+
+# --- Excel betikle üretilir; tek doğruluk kaynağı CSV'dir ---
+*.xlsx
+*.xlsm
+*.xls
+~$*
+ciktilar/excel/
+
+# --- Kişi adı/telefon içerebilen ya da doğrulanmamış otomatik çıktılar ---
+ciktilar/tarama/bulgular.csv
+ciktilar/tarama/bulgular_ocr.csv
+ciktilar/tarama/ocr/
+ciktilar/tarama/urls/
+
+# --- Model ve tahmin çıktıları (mahalle düzeyinde tahmin; yayımlama kararı verilene kadar dışarıda) ---
+model/cikti/
+ciktilar/tarama/mahalle_tahmin.csv
+
+# --- Çalışma notları ---
+*chatgpt*
+*ChatGPT*
+PLAN.md
+
+# --- Gizli bilgiler ---
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+.cdsapirc
+credentials*.json
+token*.json
+secrets/
+
+# --- Önbellek ve günlük ---
+out/
+**/out/
+cache/
+.cache/
+*.log
+*.npy
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# --- İşletim sistemi ve editör ---
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+.claude/settings.local.json
